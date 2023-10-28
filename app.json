@@ -13,10 +13,9 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/adarsh-goel/-pro/",
+  "repository": "https://github.com/MExAkib/",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
-  "website": "http://adarsh.eu.org",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
