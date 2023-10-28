@@ -1,12 +1,4 @@
-
-
-
-<h1 align="center"></h1>
-<p align="center"> 
-  <img src="https://socialify.git.ci/adarsh-goel/filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
-  </a>
-  
- <p align="center">
+<p align="center">
     A Telegram bot to turn all media and documents files to instant direct download and stream link .
     <br />
    </strong></a>
@@ -19,8 +11,8 @@
 
 <hr>
 
-## Please Follow me so you know whenever I release a new Project!❤️‍🔥
-### Incase you are having trouble deploying bot you may hire developer we have reasonable rates [click here](https://telegram.dog/vjbots_bot)
+## Please Follow Me!❤️‍🔥
+### Incase you are having trouble deploying bot you may hire developer we have reasonable rates [Click Here](https://t.me/THExAkib)
 
 ## 🍁 About This Bot :
 
@@ -32,10 +24,10 @@
 </p>
 
 
-## ♢ How to make your own :
+## ♢ How to Make Your Own :
 
 
-#### ♢ Click on This Drop-down and get more details
+#### ♢ Click on This Drop-Down and Get More Details
 <br>
 <details>
   <summary><b>Deploy on Heroku:</b></summary>
@@ -83,8 +75,8 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/VJBots/FileToLink
-cd FileToLink
+git clone https://github.com/MExAkib/FileToLinkBot
+cd FileToLinkBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -168,5 +160,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh-Goel](https://github.com/adarsh-goel)
+- [AKIB](https://github.com/MExAkib)
 - Everyone In This Journey !
